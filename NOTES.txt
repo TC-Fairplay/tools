@@ -1,0 +1,2 @@
+- switch from edit_distance::edit_distance to strsim::levenshtein?
+- to see logs: RUST_LOG=info cargo run [...]
