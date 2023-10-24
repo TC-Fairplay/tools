@@ -8,7 +8,7 @@
 
 Match the list of club members exported (as Excel file) from the [Fairgate](https://mein.fairgate.ch) database to the one exported from the [GotCourts](https://www.gotcourts.com) system. All entries are shown which are only in one of the two lists.
 
-### Export Member Lists
+### Export Member List
 
 Write all relevant club member data from the Fairgate system (exported as Excel file) to a CSV file to be processed by the [member-listing](https://www.github.com/tc-fairplay/member-listing) tool.
 
