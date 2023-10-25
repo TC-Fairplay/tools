@@ -1,5 +1,7 @@
 # CLI Tools
 
+![Build Status](https://github.com/TC-Fairplay/tools/actions/workflows/build.yml/badge.svg)
+
 🎾 Command line tools for various internal tasks.
 
 ## Tasks
